@@ -3,11 +3,11 @@
 to install:
   
 ---console
-  npm install
+npm install
 ---
   
 to run
 
 ---console
-  DEBUG=bot node index.js
---
+DEBUG=bot node index.js
+---
