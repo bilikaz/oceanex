@@ -1,0 +1,11 @@
+{
+    "name": "burst-bot",
+    "version": "1.0.0",
+    "description": "Bot that makes trades",
+    "author": "Valdas <valdas@vbtech.eu>",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "debug": "^4.0.1"
+    }
+}
