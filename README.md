@@ -2,8 +2,12 @@
 
 to install:
   
--- npm install
+---console
+  npm install
+---
   
 to run
-  
--- DEBUG=bot node index.js
+
+---console
+  DEBUG=bot node index.js
+--
